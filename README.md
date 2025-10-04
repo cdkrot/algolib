@@ -1,1 +1,1 @@
-Collection of algorithmic scratches. Feel free to use anywhere. Attribution welcomed but not mandated.
+Collection of algorithmic scratches. Feel free to use anywhere. No attribution mandated (but welcomed if you would like).
